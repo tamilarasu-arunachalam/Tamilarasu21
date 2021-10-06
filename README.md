@@ -1,4 +1,3 @@
-### Hi There 
 # Tamilarasu Arunachalam
 ### Web Developer
 [![Tamilarasu Arunachalam LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)](https://www.linkedin.com/in/tamilarasu-arunachalam/)
@@ -17,4 +16,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Tamilarasu21&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Tamilarasu21&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-### Wanna! Get in touch with me? send a  *hi*  to [tamilarasu.arunachalam@gmail.com](mailto:tamilarasu.arunachalam@gmail.com)
+### Wanna! Get in touch with me?<br/> send a  *hi*  to [tamilarasu.arunachalam@gmail.com](mailto:tamilarasu.arunachalam@gmail.com)
