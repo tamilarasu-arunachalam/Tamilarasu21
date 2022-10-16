@@ -4,7 +4,7 @@
 <br/>
 
 [![Tamilarasu Arunachalam LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamilarasu-arunachalam/?target=_blank)
-[![Tamilarasu Arunachalam Github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://www.github.com/Tamilarasu21/)
+[![Tamilarasu Arunachalam Github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://www.github.com/tamilarasu-arunachalam/)
 [![Tamilarasu Arunachalam Instagram](https://img.shields.io/badge/Instagram-%23E1306C.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/tamil_arasu_a/)
 [![Tamilarasu Arunachalam Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tamilarasua21)
 [![Tamilarasu Arunachalam Gmail](https://img.shields.io/badge/Gmail-%23C9C9C9.svg?&style=for-the-badge&logo=Gmail&logoColor=red)](mailto:tamilarasu.arunachalam@gmail.com)
