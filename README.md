@@ -9,7 +9,7 @@
 [![Tamilarasu Arunachalam Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tamilarasua21)
 [![Tamilarasu Arunachalam Gmail](https://img.shields.io/badge/Gmail-%23C9C9C9.svg?&style=for-the-badge&logo=Gmail&logoColor=red)](mailto:tamilarasu.arunachalam@gmail.com)
 [![Tamilarasu Arunachalam Website](https://img.shields.io/badge/Website-%23FCBA03.svg?&style=for-the-badge&logo=GoogleChrome&logoColor=black)](https://tamilarasu.me)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Tamilarasu21.Tamilarasu21)<br/>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=tamilarasu-arunachalam.tamilarasu-arunachalam)<br/>
 <img src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif"><br/>
 <img alt="Microsoft Dynamics-365" height="30" src="https://img.icons8.com/color/2x/dynamics-365.png">
 <img alt="Microsoft Dynamics-365 CRM" height="30" src="https://img.icons8.com/ios-filled/2x/microsoft-dynamics-crm.png">
@@ -43,11 +43,11 @@
 
 ### **My Stats**
 ---
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Tamilarasu21&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamilarasu21&layout=compact)](https://github.com/Tamilarasu21/github-readme-stats)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=tamilarasu-arunachalam&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamilarasu-arunachalam&layout=compact)](https://github.com/tamilarasu-arunachalam/github-readme-stats)
 
 ### **Contribution Graph**
 --- 
-[![Tamilarasu Arunachalam's Activity Graphs](https://activity-graph.herokuapp.com/graph?username=Tamilarasu21&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false)](https://github.com/Tamilarasu21/github-readme-activity-graph)
+[![Tamilarasu Arunachalam's Activity Graphs](https://activity-graph.herokuapp.com/graph?username=tamilarasu-arunachalam&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false)](https://github.com/tamilarasu-arunachalam/github-readme-activity-graph)
 
 ### **Wanna! Get in touch with me?**<br/> <pre>**send a  _hi_  to** [**tamilarasu.arunachalam@gmail.com**](mailto:tamilarasu.arunachalam@gmail.com)</pre>
