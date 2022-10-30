@@ -36,8 +36,8 @@
 <h3><details>
   <summary><b>&nbsp;&nbsp;Certifications&nbsp;&nbsp;</b></summary>
   <br/>
-  <img src="https://images.credly.com/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/linkedin_thumb_CERT-Fundamentals-Power-Platform.png" height="100">
-  <img src="https://images.credly.com/images/42992295-0ee2-4527-982d-e51efbec40fc/dynamics365-fundamentals-crm-600x600.png" height="100">
+  <a href="https://www.credly.com/badges/0eeda50a-ea68-4eec-8aab-bfdb2fa15f97/public_url" target="_blank" style="text-decoration:none"><img src="https://images.credly.com/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/linkedin_thumb_CERT-Fundamentals-Power-Platform.png" height="100"></a>
+  <a href="https://www.credly.com/badges/9ac5de2b-a374-447b-9368-80230584c345/public_url" target="_blank" style="text-decoration:none"><img src="https://images.credly.com/images/42992295-0ee2-4527-982d-e51efbec40fc/dynamics365-fundamentals-crm-600x600.png" height="100"></a>
 </details></h3>
 <br/>
 
