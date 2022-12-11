@@ -21,6 +21,7 @@
 <img alt="JavaScript" height="30" src="https://img.icons8.com/color/2x/javascript.png">
 <img alt="Power Apps" height="30" src="https://img.icons8.com/fluency/344/microsoft-power-apps.png">
 <img alt="Microsoft Power BI" height="30" src="https://img.icons8.com/color/2x/power-bi.png">
+<img alt="Microsoft Power Automate" height="30" src="https://img.icons8.com/fluency/512/microsoft-power-automate-2020.png">
 <img alt="Git Bash" height="30" src="https://img.icons8.com/color/2x/git.png">
 <img alt="Markdown" height="30" src="https://img.icons8.com/ios-filled/2x/markdown.png">
 <img alt="C" height="30" src="https://img.icons8.com/color/2x/c-programming.png">
@@ -33,12 +34,13 @@
 <img alt="Microsoft Excel" height="30" src="https://img.icons8.com/color/2x/microsoft-excel-2019.png">
 <img alt="Microsoft PowerPoint" height="30" src="https://img.icons8.com/color/2x/ms-powerpoint.png">
 <br/>
-<h3><details>
+<h1><details open>
   <summary><b>&nbsp;&nbsp;Certifications&nbsp;&nbsp;</b></summary>
   <br/>
-  <a href="https://www.credly.com/badges/0eeda50a-ea68-4eec-8aab-bfdb2fa15f97/public_url" target="_blank" style="text-decoration:none"><img src="https://images.credly.com/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/linkedin_thumb_CERT-Fundamentals-Power-Platform.png" height="100"></a>
-  <a href="https://www.credly.com/badges/9ac5de2b-a374-447b-9368-80230584c345/public_url" target="_blank" style="text-decoration:none"><img src="https://images.credly.com/images/42992295-0ee2-4527-982d-e51efbec40fc/dynamics365-fundamentals-crm-600x600.png" height="100"></a>
-</details></h3>
+  <a href="https://www.credly.com/badges/0eeda50a-ea68-4eec-8aab-bfdb2fa15f97/public_url" target="_blank" style="text-decoration:none"><img src="https://images.credly.com/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/linkedin_thumb_CERT-Fundamentals-Power-Platform.png" height="150"></a>
+  <a href="https://www.credly.com/badges/9ac5de2b-a374-447b-9368-80230584c345/public_url" target="_blank" style="text-decoration:none"><img src="https://images.credly.com/images/42992295-0ee2-4527-982d-e51efbec40fc/dynamics365-fundamentals-crm-600x600.png" height="150"></a>
+</details>
+</h1>
 <br/>
 
 ### **My Stats**
@@ -48,6 +50,6 @@
 
 ### **Contribution Graph**
 --- 
-[![Tamilarasu Arunachalam's Activity Graphs](https://activity-graph.herokuapp.com/graph?username=tamilarasu-arunachalam&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false)](https://github.com/tamilarasu-arunachalam/github-readme-activity-graph)
+[![Tamilarasu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tamilarasu-arunachalam&bg_color=bcd4fb&color=000000&line=2b272b&point=dda6a6&area=true&hide_border=true)](https://github.com/tamilarasu-arunachalam/github-readme-activity-graph)
 
 ### **Wanna! Get in touch with me?**<br/> <pre>**send a  _hi_  to** [**tamilarasu.arunachalam@gmail.com**](mailto:tamilarasu.arunachalam@gmail.com)</pre>
