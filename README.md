@@ -1,6 +1,6 @@
 # Tamilarasu Arunachalam
 ### **Software Engineer**
-&emsp;&emsp;Nerdy Guy focusing on Microsoft Dynamics 365 CRM and Power Platform. Always love to code simple and clean. Avid learner who prefers hands on learning. I am a guy who loves to network with people as well. If you want to connect with me, use the below platform links.  
+&emsp;&emsp;Nerdy Guy focusing on Microsoft Dynamics 365 CRM and Model Driven Apps. Always love to code simple and clean. Avid learner who prefers hands on learning. I am a guy who loves to network with people as well. If you want to connect with me, use the social platform links.  
 <br/>
 
 [![Tamilarasu Arunachalam LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamilarasu-arunachalam/?target=_blank)
